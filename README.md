@@ -1,0 +1,2 @@
+# Dictionary-Project
+In this project, we created a 500 words long list of words, along with their type and definitions. Then we used a Python program that would allow a user to search for a word and its meaning. There were also a few games that the user could play like guessing the scrambled word and guessing the word when the meaning was given. This project involved the concept of Data structures and the data structure that we used was Trie.
